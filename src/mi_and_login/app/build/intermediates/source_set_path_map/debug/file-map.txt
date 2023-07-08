@@ -1,0 +1,17 @@
+net.micode.notes.app-design-27.1.1-0 C:\Users\薛皓天\.gradle\caches\transforms-3\08b2c4759a9370b79c1db521afdee5a8\transformed\design-27.1.1\res
+net.micode.notes.app-appcompat-v7-27.1.1-1 C:\Users\薛皓天\.gradle\caches\transforms-3\180eeefb5c9fa290eae69b6eda4e2eae\transformed\appcompat-v7-27.1.1\res
+net.micode.notes.app-recyclerview-v7-27.1.1-2 C:\Users\薛皓天\.gradle\caches\transforms-3\3ba5c51a1f730cf47c761db4c2383520\transformed\recyclerview-v7-27.1.1\res
+net.micode.notes.app-support-core-ui-27.1.1-3 C:\Users\薛皓天\.gradle\caches\transforms-3\3e572eab566837d93c10e3930f686064\transformed\support-core-ui-27.1.1\res
+net.micode.notes.app-support-compat-27.1.1-4 C:\Users\薛皓天\.gradle\caches\transforms-3\55305e3db23cb94d99efb75b6b3485cf\transformed\support-compat-27.1.1\res
+net.micode.notes.app-support-media-compat-27.1.1-5 C:\Users\薛皓天\.gradle\caches\transforms-3\75bdcf25050a121bb488a0dddc0959ed\transformed\support-media-compat-27.1.1\res
+net.micode.notes.app-transition-27.1.1-6 C:\Users\薛皓天\.gradle\caches\transforms-3\86c4a1052e37b4375f5b87b8ed6a71a3\transformed\transition-27.1.1\res
+net.micode.notes.app-cardview-v7-27.1.1-7 C:\Users\薛皓天\.gradle\caches\transforms-3\8f46bdb1e2fc1f37aa6e8763107a146c\transformed\cardview-v7-27.1.1\res
+net.micode.notes.app-constraint-layout-1.1.0-8 C:\Users\薛皓天\.gradle\caches\transforms-3\ac71f32b165505a54e1cfb378ab298ed\transformed\constraint-layout-1.1.0\res
+net.micode.notes.app-pngs-9 D:\mi_and_login\app\build\generated\res\pngs\debug
+net.micode.notes.app-resValues-10 D:\mi_and_login\app\build\generated\res\resValues\debug
+net.micode.notes.app-rs-11 D:\mi_and_login\app\build\generated\res\rs\debug
+net.micode.notes.app-mergeDebugResources-12 D:\mi_and_login\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+net.micode.notes.app-mergeDebugResources-13 D:\mi_and_login\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+net.micode.notes.app-merged_res-14 D:\mi_and_login\app\build\intermediates\merged_res\debug
+net.micode.notes.app-debug-15 D:\mi_and_login\app\src\debug\res
+net.micode.notes.app-main-16 D:\mi_and_login\app\src\main\res
